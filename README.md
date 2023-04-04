@@ -1,3 +1,4 @@
+[Guess the Number Explanation.pdf](https://github.com/hk527/Guess-the-Number/files/11153843/Guess.the.Number.Explanation.pdf)
 # Guess-the-Number
 Guess the Number Game
 Number Guessing Game
